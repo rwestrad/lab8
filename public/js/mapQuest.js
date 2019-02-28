@@ -4,7 +4,7 @@ function initMap() {
   var map = L.mapquest.map('map', {
     center: [32.88, -117.236],
     layers: L.mapquest.tileLayer('map'),
-    zoom: 12,
+    zoom: 14,
     zoomControl: false
   });
 
